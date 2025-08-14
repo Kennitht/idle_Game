@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "tables": {
+    "mining": "mining.csv",
+    "smelting": "smelting.csv",
+    "minting": "minting.csv"
+  },
+  "notes": "Locked numbers; changes by PATCH only."
+}
